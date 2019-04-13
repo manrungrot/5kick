@@ -1,0 +1,10 @@
+  File "5.py", line 2724, in executeOp
+    random.choice(ABC).cancelGroupInvitation(op.param1,[op.param3])
+  File "/root/po5/LineAPI/linepy/talk.py", line 10, in checkLogin
+    return func(*args, **kwargs)
+  File "/root/po5/LineAPI/linepy/talk.py", line 569, in cancelGroupInvitation
+    return self.talk.cancelGroupInvitation(0, groupId, contactIds)
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 2379, in cancelGroupInvitation
+    self.recv_cancelGroupInvitation()
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 2403, in recv_cancelGroupInvitation
+    raise result.e

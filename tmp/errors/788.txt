@@ -1,0 +1,12 @@
+  File "5.py", line 3190, in executeOp
+    executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey)
+  File "5.py", line 2618, in executeCmd
+    line.sendMessage(to, 'เตะสมาชิกเรียบร้อย\nจำนวน %i คน' % len(mentions['MENTIONEES']))
+  File "/root/po5/LineAPI/linepy/talk.py", line 10, in checkLogin
+    return func(*args, **kwargs)
+  File "/root/po5/LineAPI/linepy/talk.py", line 107, in sendMessage
+    return self.talk.sendMessage(self._messageReq[to], msg)
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 8145, in sendMessage
+    return self.recv_sendMessage()
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 8170, in recv_sendMessage
+    raise result.e

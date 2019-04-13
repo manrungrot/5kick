@@ -1,0 +1,29 @@
+╭───「 help bot 」
+├≽ remove chat = ลบแชทคิก
+├≽ addall = บอทแอดเพื่อนกันเอง(สั่งคิกเข้าห้อง+คิกผีด้วย)
+├≽ respon = เชคชื่อบอท
+├≽ !in = เชิญบอทเข้ากลุ่ม
+├≽ !join = ดึงบอทเข้ากลุ่ม
+├≽ kicker join = ดึงคิกผีเข้ากลุ่ม
+├≽ !out = สั่งคิกออก
+├≽ kicker bye = สั่งคิกผีออก
+├≽ speedbot = เช็คความไวบอท
+├──「 Protect 」
+├≽ Protecturl on\off = กันเปิดลิ้ง
+├≽ Protectkick on\off = กันคนเตะกันในกลุ่ม
+├≽ Protectjoin on\off = กันคนเข้ากลุ่ม
+├≽ Protectcanceljs on\off = ป้องกันคนยกเลิกค้างเชิญบอท
+├≽ Protectcancel on\off = ป้องกันคนยกเลิกเชิญ
+├≽ Protectinvite on\off = ป้องกันคนเชิญ
+├≽ Ghost on\off = โหมดคิกผี(เสี่ยงบัคง่าย)
+├≽ Antijs on\off ป้องกันjs
+├≽ antijs stay ดึงคิกผีมาค้างเชิญ(ต้องเปิดกันJS ด้วย)
+├≽ Semua pro on\off = เปิดป้องกันทั้งหมด
+├──「 Ban\unban 」
+├≽ Ban @ = แบนสมาชิกในห้อง
+├≽ Unban @ = ปลดแบนสมาชิกในห้อง
+├≽ ban = ส่งคท
+├≽ unban = ส่งคท
+├≽ bc = เช็คคนติดดำ
+├≽ cb = ล้างดำ
+╰───「© 2018 Edit By รัตน์」

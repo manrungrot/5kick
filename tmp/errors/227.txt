@@ -1,0 +1,10 @@
+  File "5.py", line 2736, in executeOp
+    random.choice(ABC).updateGroup(G)
+  File "/root/po5/LineAPI/linepy/talk.py", line 10, in checkLogin
+    return func(*args, **kwargs)
+  File "/root/po5/LineAPI/linepy/talk.py", line 638, in updateGroup
+    return self.talk.updateGroup(0, groupObject)
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 9198, in updateGroup
+    self.recv_updateGroup()
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 9221, in recv_updateGroup
+    raise result.e

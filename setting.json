@@ -1,0 +1,58 @@
+{
+    "autoAdd": {
+        "status": false,
+        "message": "Hello @!, thanks for add me as your friend\nSelfbot by Hello World",
+        "reply": true
+    },
+    "autoJoin": {
+        "status": false,
+        "message": "Hello @!, thanks for invite me to this group\nSelfbot by Hello World",
+        "reply": true,
+        "ticket": false
+    },
+    "autoRead": false,
+    "autoRespond": {
+        "status": false,
+        "message": "Hello @!, thanks for your message this is auto respond\nSelfbot by Hello World"
+    },
+    "autoRespondMention": {
+        "status": false,
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nSelfbot by Hello World"
+    },
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changeCoverProfile": false,
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "defaultReplyReader": "Hello @!, come here join to chat",
+    "greet": {
+        "join": {
+            "status": false,
+            "message": "Hello @!, welcome to group {name}"
+        },
+        "leave": {
+            "status": false,
+            "message": "Good bye @!, see you next time"
+        }
+    },
+    "myProfile": {
+        "coverId": "f3a625249beb90096a6482a16da9d50c",
+        "coverStatus": "",
+        "displayName": "\u2764\u026a\u1d1b'\u0274\u1d0f\u1d1b\u1d00\u1d18\u029c\u1d00s\u1d07\u2764",
+        "pictureStatus": "0hIZ4Icff8FnUJMDv_O0ppIjV1GBh-HhA9cVRfFSRnThVzCVJ0PFUNRHw5QUQjUlIhYgZeEi05QBVz",
+        "statusMessage": "",
+        "videoProfile": null
+    },
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "restartPoint": null,
+    "setKey": {
+        "status": false,
+        "key": "/"
+    },
+    "copyright": "If you respect the author please don't remove this copyright\n\u00a9 2018 Hello World",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404"
+}

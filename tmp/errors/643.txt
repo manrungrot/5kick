@@ -1,0 +1,10 @@
+  File "5.py", line 2733, in executeOp
+    random.choice(ABC).kickoutFromGroup(op.param1,[op.param2])
+  File "/root/po5/LineAPI/linepy/talk.py", line 10, in checkLogin
+    return func(*args, **kwargs)
+  File "/root/po5/LineAPI/linepy/talk.py", line 622, in kickoutFromGroup
+    return self.talk.kickoutFromGroup(0, groupId, midlist)
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 5614, in kickoutFromGroup
+    self.recv_kickoutFromGroup()
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 5638, in recv_kickoutFromGroup
+    raise result.e

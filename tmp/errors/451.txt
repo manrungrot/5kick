@@ -1,0 +1,8 @@
+  File "5.py", line 3343, in runningProgram
+    ops = oepoll.singleTrace(count=50)
+  File "/root/po5/LineAPI/linepy/oepoll.py", line 49, in singleTrace
+    self.setRevision(self.client.poll.getLastOpRevision())
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 4432, in getLastOpRevision
+    return self.recv_getLastOpRevision()
+  File "/usr/local/lib/python3.6/dist-packages/akad/TalkService.py", line 4455, in recv_getLastOpRevision
+    raise result.e
