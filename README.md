@@ -1,6 +1,6 @@
 # LINE Python
-
-*LINE Messaging's private API*
+ 
+* API ส่วนตัวของ LINE Messaging*
 
 ----
 
